@@ -2,14 +2,14 @@
 Projects and work during the great pandemic of 2020
 
 ## Projection Event #1 --- Parking Lot Sing along.
-- [ ] Decide on date (6/12 or 6/26)
+- [X] Decide on date (6/12 or 6/26) --- 6/12!!!
+- [ ] Publicize
 - [ ] Playlist
-- [ ] Downloads
+  - [ ] Downloads
 - [ ] Test FM Transmittor(s)
 - [ ] Test Projector + Screen
 - [ ] Loops & Clips
 - [ ] Resolume 
-- [ ] Publicize
 
 ## Touch
 - [ ] TikTok Template
@@ -44,7 +44,7 @@ Projects and work during the great pandemic of 2020
 - [ ] Name
 
 ### Boutique Grow Light
-  - [ ] Order grow strip LEDs
+  - [X] Order grow strip LEDs
   - [ ] Create mood board on Pinterest
   - [ ] Get copper pipe
   - [ ] Get wood
