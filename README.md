@@ -39,19 +39,27 @@ Projects and work during the great pandemic of 2020
 -------------
 
 ## Lazer Sloth Productions
-- [ ] Boutique Grow Light
+- [ ] Portfolio
+- [ ] Website
+- [ ] Name
+
+### Boutique Grow Light
   - [ ] Order grow strip LEDs
   - [ ] Create mood board on Pinterest
-  - [ ] Make 
+  - [ ] Get copper pipe
+  - [ ] Get wood
+  - [ ] Make prototype
   
-- [ ] BNIM
+### Venturemen
+  - [ ] Set up meeting
+  - [ ] Mood board PDF
+  - [ ] Estimate/plans
+
+### BNIM
   - [ ] Mood board
   - [ ] Sketch
   - [ ] Prototype
   
-- [ ] Venturemen
-  - [ ] Mood board PDF
-
 ## Drone for KCAI
 - [ ] Prep drone(s)
 - [ ] Update all software and firmware
