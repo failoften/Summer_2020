@@ -52,7 +52,7 @@ Projects and work during the great pandemic of 2020
   
 ### Venturemen
   - [ ] Set up meeting
-  - [ ] Mood board PDF
+  - [X] Mood board on Pinterest: https://www.pinterest.com/davidoverholt/ventureman-barbershop/
   - [ ] Estimate/plans
 
 ### BNIM
