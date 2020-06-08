@@ -9,15 +9,18 @@ Projects and work during the great pandemic of 2020
   - [ ] Instagram
   - [ ] TikTok
   - [ ] Text
-- [ ] Playlist
+- [X] Playlist
 - [ ] Test FM Transmittor(s)
 - [ ] Test Projector + Screen
 - [ ] Resolume 
   - [ ] Loops & Clips
-  - [ ] Downloads
+  - [ ] Downloads - Spotify Playlist
+  - [ ] Lyrics or Music Videos
 
-## Touch
-- [ ] TikTok Template
+## Touch Case Studies
+
+- [ ] Prep .toe/.tox exports
+- [X] TikTok Template
 - [ ] CNC Awning Tile Generator (Processing? P5?)
 
 Interactive Installations 
@@ -32,8 +35,8 @@ Interactive Installations
 
 Peripherals in Touch
 - [ ] AirBar
-- [ ] Planar Touchscreen
-- [ ] Leap Motion
+- [X] Planar Touchscreen
+- [X] Leap Motion
 - [ ] Myo
 - [ ] PS4 Controller
 - [ ] XBox 360 Controller
@@ -42,6 +45,7 @@ Peripherals in Touch
 - [ ] Kinect v1
 - [ ] Kinect v2
 - [ ] Oculus Rift
+- [ ] Tobii (via Processing?)
 
 Other Connections
 - [ ] Syphon
@@ -53,12 +57,15 @@ Other Connections
 - [ ] UDP/IP
 
 ## Streaming Issues
-  - [ ] Setup (options?)
+  - [X] Setup (options?)
   - [X] Scenes in OBS
-  - [X] Audio: Jack input + headphone + mic
+  - [ ] Audio: headphone + mic (currently borrowing)
+  - [ ] Animations, Stingers
+  - [ ] Restream, Twitch, chat integration - Streamlabs?
   - [ ] Music, Sound FX, video switch board or app or hotkeys
   - [ ] Publicize
   - [ ] Backup/archive system
+  - [ ] Highlight clips (Twitch, TikTok, Insta, YouTube, www)
 
 
 -------------
@@ -78,17 +85,19 @@ Other Connections
 
 ### Boutique Grow Light
   - [X] Order grow strip LEDs
-  - [ ] Create mood board on Pinterest
-  - [ ] Get copper pipe
-  - [ ] Get wood
+  - [X] Create mood board on Pinterest
+  - [X] Get galvanized pipe
+  - [X] Get wood
   - [ ] Make prototype
   
 ### Venturemen
-  - [X] Set up meeting
+  - [X] Set up meeting - Thursday
   - [X] Mood board on Pinterest: https://www.pinterest.com/davidoverholt/ventureman-barbershop/
+  - [ ] PDF from moodboards and Jason's plants
   - [ ] Estimate/plans
 
 ### BNIM
+  - [ ] Set date
   - [ ] Mood board
   - [ ] Sketch
   - [ ] Prototype
