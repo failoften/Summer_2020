@@ -1,7 +1,9 @@
 # Summer_2020
 Projects and work during the great pandemic of 2020
 
-# Broadcast:
+-------------
+
+# Events
 
 ## Projection Event #1 --- Parking Lot Sing along.
 - [X] Decide on date (6/12 or 6/26) --- 6/12!!!
@@ -28,11 +30,18 @@ Projects and work during the great pandemic of 2020
   - 7/17
 - [ ] Electricity
 - [ ] Hardware needs
+  - Oculus Rift
+  - Kinect
+  - Controller
+  - Makey Makey Go
+  - Arduino
 - [ ] Audio
 
 ## Projection Event #3 --- ?
 - [ ] August ?
 
+
+-------------
 
 # TouchDesigner
 
@@ -86,8 +95,11 @@ Classes / Lessons:
 - [ ] Export SVG
 - [ ] Export OBJ
 
+-------------
 
-## Streaming Issues
+# Streaming 
+
+Issues
   - [X] Setup (options?)
   - [X] Scenes in OBS
   - [X] Restream, Twitch, chat integration - Streamlabs?
