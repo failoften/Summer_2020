@@ -11,11 +11,11 @@ Projects and work during the great pandemic of 2020
   - [X] Text
 - [X] Playlist
 - [X] Test FM Transmittor(s)
-- [ ] Test Projector + Screen
-- [ ] Resolume 
-  - [ ] Loops & Clips
-  - [ ] Downloads - Spotify Playlist
-  - [ ] Lyrics or Music Videos
+- [X] Test Projector + Screen
+- [X] Resolume 
+  - [X] Loops & Clips
+  - [X] Downloads - Spotify Playlist
+  - [X] Lyrics or Music Videos
 
 ## TouchDesigner
 
@@ -37,7 +37,7 @@ Peripherals in Touch
 - [X] Planar Touchscreen
 - [X] Leap Motion
 - [ ] Tobii
-- [ ] Roli Seabord
+- [X] Roli Seabord
 - [ ] Myo
 - [ ] PS4 Controller
 - [ ] XBox 360 Controller
@@ -60,9 +60,9 @@ Other Connections
   - [X] Setup (options?)
   - [X] Scenes in OBS
   - [ ] Audio: headphone + mic (currently borrowing)
-  - [ ] Webcam lag
+  - [X] Webcam lag
   - [ ] Animations, Stingers
-  - [ ] Restream, Twitch, chat integration - Streamlabs?
+  - [X] Restream, Twitch, chat integration - Streamlabs?
   - [ ] Music, Sound FX, video switch board or app or hotkeys
   - [ ] Publicize
   - [ ] Backup/archive system
