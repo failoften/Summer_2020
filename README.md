@@ -16,59 +16,97 @@ Projects and work during the great pandemic of 2020
   - [X] Loops & Clips
   - [X] Downloads - Spotify Playlist
   - [X] Lyrics or Music Videos
+  
+## Projection Event #2 --- 
+- [ ] Theme
+  Walking soundscape
+  MIDI Instrument
+- [ ] Location
+  - Under freeway
+  - Parking lot (again)5
+- [ ] Date
+  - 7/17
+- [ ] Electricity
+- [ ] Hardware needs
+- [ ] Audio
 
-## TouchDesigner
+## Projection Event #3 --- ?
+- [ ] August ?
 
-- [ ] Prep .toe/.tox exports
-- [X] TikTok Template
-- [ ] CNC Awning Tile Generator (Processing? P5?)
 
-Interactive Installations Case Studies/Templates 
+# TouchDesigner
+
+Component + Example:
+- 
+Example: Show in use with title, show Network with use on grid, run through nodes, back to full screen in use, end with my details
+
+- [X] Leap Motion
+- [X] Planar Touchscreen
+- [X] Roli Seabord
+
+- [ ] Clip exporter
+  - [X] TikTok Template
 - [ ] 3D Install Prototype
-- [ ] Wearable Prototype
-- [ ] Projection Mapping
-- [ ] Mouse + ???
+- [ ] CNC tile generator
+- [ ] Media Player
+
+Peripherals:
 - [ ] Makey Makey Go
 - [ ] Circuit Playground Express
-- [ ] Export OBJ + 3D Print
-- [ ] Export SVG + Glowforge
-
-Peripherals in Touch
-- [X] Planar Touchscreen
-- [X] Leap Motion
 - [ ] Tobii
-- [X] Roli Seabord
 - [ ] Myo
 - [ ] PS4 Controller
 - [ ] XBox 360 Controller
 - [ ] Akai APC40 MKII
 - [ ] Wiimote
+- [ ] Tap
 - [ ] Kinect v1
 - [ ] Kinect v2
 - [ ] Oculus Rift
+- [ ] OpenVR
+- [ ] Blob Track
+- [ ] Arduino
 
-Other Connections
-- [ ] Syphon
-- [ ] Spout
-- [ ] IP Webcam
-- [ ] MIDI
-- [ ] OSC
-- [ ] Touch In/Out
-- [ ] UDP/IP
+
+Classes / Lessons:
+-
+Base / Comps / Ops Basics (null, base, container)
+TouchPlayer, Presentation Mode (out, math, references)
+Video In/Out (screen grab, video devices, stream, touch, ndi, webrender, syphon/spout)
+Visual Effects (add, multiply, feedback, edge, blur, noise, over, lookup)
+Audio In/Out (spectrum, device, filters, oscillator, noise, beat, lfo)
+Keyboard, Mouse (keyboard, mouse in/out, buttons, sliders, midi & osc, switch)
+Custom Components (base, container, UI panels, 
+Geo (render, particles, texture)
+API (websocket, xml, node, mqtt, tcp/ip)
+Python (variables, functions, tables)
+
+- [ ] Neopixel
+- [ ] Projection Mapping
+- [ ] Export SVG
+- [ ] Export OBJ
+
 
 ## Streaming Issues
   - [X] Setup (options?)
   - [X] Scenes in OBS
-  - [ ] Audio: headphone + mic (currently borrowing)
-  - [X] Webcam lag
-  - [ ] Animations, Stingers
   - [X] Restream, Twitch, chat integration - Streamlabs?
-  - [ ] Music, Sound FX, video switch board or app or hotkeys
+  - [X] Webcam lag (bad webcam and slow computer)
+  
+  - [ ] Audio: headphone + mic (currently borrowing)
+    - [ ] Purchase mic + xlr to usb (focusrite)
+    - [ ] Music, Sound FX, video switch board or app or hotkeys
+  - [ ] Theme
+    - [ ] Type, colors, layout
+    - [ ] Animations, Stingers
+    - [ ] Layout scenes
+    - [ ] Put in Mac and PC
   - [ ] Publicize
-  - [ ] Backup/archive system
   - [ ] Highlight clips (Twitch, TikTok, Insta, YouTube, www)
-
-
+    - [ ] Backup/archive system: YouTube, Twitch, Google Drive, Local HDD
+    
+    
+  
 -------------
 
 # Studio
