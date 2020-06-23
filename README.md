@@ -70,16 +70,16 @@ Peripherals:
 
 Classes / Lessons:
 -
-Base / Comps / Ops Basics (null, base, container)
-TouchPlayer, Presentation Mode (out, math, references)
-Video In/Out (screen grab, video devices, stream, touch, ndi, webrender, syphon/spout)
-Visual Effects (add, multiply, feedback, edge, blur, noise, over, lookup)
-Audio In/Out (spectrum, device, filters, oscillator, noise, beat, lfo)
-Keyboard, Mouse (keyboard, mouse in/out, buttons, sliders, midi & osc, switch)
-Custom Components (base, container, UI panels, 
-Geo (render, particles, texture)
-API (websocket, xml, node, mqtt, tcp/ip)
-Python (variables, functions, tables)
+- Base / Comps / Ops Basics (null, base, container)
+- TouchPlayer, Presentation Mode (out, math, references)
+- Video In/Out (screen grab, video devices, stream, touch, ndi, webrender, syphon/spout)
+- Visual Effects (add, multiply, feedback, edge, blur, noise, over, lookup)
+- Audio In/Out (spectrum, device, filters, oscillator, noise, beat, lfo)
+- Keyboard, Mouse (keyboard, mouse in/out, buttons, sliders, midi & osc, switch)
+- Custom Components (base, container, UI panels, 
+- Geo (render, particles, texture)
+- API (websocket, xml, node, mqtt, tcp/ip)
+- Python (variables, functions, tables)
 
 - [ ] Neopixel
 - [ ] Projection Mapping
