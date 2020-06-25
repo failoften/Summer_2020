@@ -8,6 +8,7 @@ Example: Show in use with title, show Network with use on grid, run through node
 - [X] Planar Touchscreen
 - [X] Roli Seabord
 
+- [ ] A/V Reaction 
 - [ ] Clip exporter
   - [X] TikTok Template
 - [ ] 3D Install Prototype
