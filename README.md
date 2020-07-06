@@ -24,10 +24,11 @@ Projects and work during the great pandemic of 2020
   Walking soundscape
   MIDI Instrument
 - [ ] Location
-  - Under freeway
-  - Parking lot (again)5
+  - [ ] Under freeway
+  - [ ] Streamed only
+  - [ ] Parking lot (again)5
 - [ ] Date
-  - 7/17
+  -  [ ] 7/17
 - [ ] Electricity
 - [ ] Hardware needs
   - Oculus Rift
