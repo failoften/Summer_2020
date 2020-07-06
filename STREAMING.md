@@ -9,12 +9,15 @@ Issues
   - [ ] Audio: headphone + mic (currently borrowing)
     - [ ] Purchase mic + xlr to usb (focusrite)
     - [ ] Music, Sound FX, video switch board or app or hotkeys
-  - [ ] Theme
-    - [ ] Type, colors, layout
+    
+  - [X] Theme
+    - [X] Type, colors, layout
     - [ ] Animations, Stingers
-    - [ ] Layout scenes
+    - [X] Layout scenes
     - [ ] Put in Mac and PC
+    
   - [ ] Publicize
+  
   - [ ] Highlight clips (Twitch, TikTok, Insta, YouTube, www)
     - [ ] Backup/archive system: YouTube, Twitch, Google Drive, Local HDD
     
