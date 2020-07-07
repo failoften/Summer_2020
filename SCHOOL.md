@@ -36,7 +36,19 @@
   - [ ] Instagram favorites
 - [ ] Google Drive
 - [ ] Lectures
+  - [ ] Space
+  - [ ] Light
+  - [ ] Time
+  - [ ] Interaction
+  - [ ] Environment: Temporary, Mobile, Permanent, Public
+  - [ ] Tech Setup
+  - [ ] Documenting
+  - [ ] Prototyping
+  - [ ] 
 - [ ] Workshops
+  - [ ] TD Basics
+  - [ ] Makey Makey Go
+  
 
 - [ ] Hardware and software reqs
 - **Project 1**: Laptop, Makey Makey Go, TouchDesigner, 
