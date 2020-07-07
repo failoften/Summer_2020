@@ -32,14 +32,14 @@
   or - Project 3: Door
 - [ ] Videos (tutorials, homemade, topical)
   - [ ] See TOUCH.md
-  - [ ] YouTube (own playlist, bileam tischepe, matthew ragan, TD)
+  - [ ] YouTube (own playlist, bileam tischepe, matthew ragan, ben voigt, TD)
   - [ ] Instagram favorites
 - [ ] Google Drive
 - [ ] Lectures
   - [ ] Space
   - [ ] Light
   - [ ] Time
-  - [ ] Interaction
+  - [ ] Interaction, Audience Participation
   - [ ] Environment: Temporary, Mobile, Permanent, Public
   - [ ] Tech Setup
   - [ ] Documenting
