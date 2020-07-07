@@ -8,12 +8,13 @@ Example: Show in use with title, show Network with use on grid, run through node
 - [X] Planar Touchscreen
 - [X] Roli Seabord
 
-- [ ] A/V Reaction 
+- [X] A/V Reaction 
 - [ ] Clip exporter
   - [X] TikTok Template
 - [ ] 3D Install Prototype
 - [ ] CNC tile generator
 - [ ] Media Player
+
 
 Peripherals:
 - [ ] Makey Makey Go
@@ -32,7 +33,6 @@ Peripherals:
 - [ ] Blob Track
 - [ ] Arduino
 
-
 Classes / Lessons:
 -
 - Base / Comps / Ops Basics (null, base, container)
@@ -50,5 +50,6 @@ Classes / Lessons:
 - [ ] Projection Mapping
 - [ ] Export SVG
 - [ ] Export OBJ
+- [ ] Poster Generator (Bauhaus)
 
 -------------
