@@ -1,17 +1,31 @@
 # School
   
-## Drone for KCAI
-- [ ] Prep drone(s)
-- [ ] Update all software and firmware
-- [ ] SD Card
-- [ ] June 
-- [ ] Fall
+## Fall Course Prep
 
-## Course Prep
-- [ ] Flipped/hybrid classroom
-- [ ] Hardware and software reqs
+IA Studio:
+- [ ] Syllabus
 - [ ] Reading
-- [ ] Back-up plans
-  - [ ] Meeting in person
-  - [ ] 10-4
-  - [ ] No in person
+- [ ] Videos (YouTube + homemade)
+- [ ] Lecture Topics
+
+
+Interactive Installations:
+- [ ] Syllabus 
+- [ ] Reading
+- [ ] Projects
+  - [ ] Lecture Topics
+- [ ] Videos (tutorials, homemade, topical)
+- [ ] Hardware and software reqs
+
+
+
+
+## Drone for KCAI Admissions?
+- [X] Meeting with Admissions (Zoom)
+- [ ] **Confirm drone + new media team**
+
+- [X] Prep drone(s)
+- [ ] Update all software and firmware
+- [X] SD Card
+- [ ] ~~June~~
+- [ ] Fall
