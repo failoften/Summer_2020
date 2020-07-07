@@ -1,6 +1,6 @@
 # Fall Prep
 
-- [ ] Hear back from Tyler re: Fall virtual meetings
+- [ ] Hear back re: Fall virtual class
 
 
 ## IA Studio:
@@ -8,9 +8,13 @@
 - [ ] Reading
 - [ ] Videos (YouTube + homemade)
 - [ ] Lecture Topics
-- [ ] Seminar overlap
-- [ ] Field Trips
-- [ ] Guest Speakers
+- [ ] Seminar overlap (Life skills)
+  - [ ] Contact instructor
+- [ ] Field Trips (DI, ?)
+- [ ] Guest Speakers (Virtual)
+- [ ] Presentations from Ari (Taxes, Presenting, etc.)
+- [ ] Google Drive
+
 
 ## GD Seniors
 - [ ] Contact Lisa
@@ -21,18 +25,25 @@
 ## Interactive Installations:
 - [ ] Syllabus 
 - [ ] Reading
-- [ ] Assignments 
-  - [X] Project 1: Wall, Window, Door
-  - [ ] Project 2: Wearable? 
+- [X] Assignments 
+  - 6 Responses to videos, readings, lectures  (video, written, coded, etc.)
+  - Project 1: Wall, Window, Door
+  - Project 2: Wearable?
+  or - Project 3: Door
 - [ ] Videos (tutorials, homemade, topical)
+  - [ ] See TOUCH.md
+  - [ ] YouTube (own playlist, bileam tischepe, matthew ragan, TD)
+  - [ ] Instagram favorites
+- [ ] Google Drive
+- [ ] Lectures
+- [ ] Workshops
 
 - [ ] Hardware and software reqs
-**Project 1**: Laptop, Makey Makey Go, TouchDesigner, 
-**Project 2**: Circuit Playground? Wearable? 
+- **Project 1**: Laptop, Makey Makey Go, TouchDesigner, 
+- **Project 2**: Circuit Playground? Wearable? 
 
 - [ ] Class Hardware
-Makey Makey Go, RGB bulbs, DMX, RPi, Neopixel, Circuit Playground Express, Monitor(s), Banana Clips, Batteries, Webcams, Keyboard, Mice, Leap Motion, Kinect, Latte Panda, Touchscreen, HDMI capture, HDMI record, ...
-
+- Makey Makey Go, RGB bulbs, DMX, RPi, Neopixel, Circuit Playground Express, Monitor(s), Banana Clips, Batteries, Webcams, Keyboard, Mice, Leap Motion, Kinect, Latte Panda, Touchscreen, HDMI capture, HDMI record, ...
 
 
 # Other
