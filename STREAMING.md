@@ -38,26 +38,12 @@ Issues
 -------------
 
 ## Topics/streams:
-Neopixel
-Patio Tiles
-Leap Motion
-Audio Reactive
-Resolume
-Zerror
-Kinect
-Seaboard
-Akai
-Tap
-Tobii
-Myo
-Axidraw/SVG
-Glowforge
-3d print
-Posters
 
-Other:
-Music Video commentary/reaction
-Video Game play/failthrough
-Interviews
+- [ ] TouchDseigner *See TOUCH.md*
+- [ ] 
+
+- [ ] Music Video commentary/reaction
+- [ ] Video Game play/failthrough
+- [ ] Interviews
 
 
