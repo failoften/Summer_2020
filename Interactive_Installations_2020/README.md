@@ -43,9 +43,27 @@ Pinterest Lists:
 
 ## Museums and Galleries
 
+***See TwentyTwoHalo's map of creative studios! - https://www.twentytwohalo.com/creativestudios.html ***
+
 Artechouse - https://www.artechouse.com/
 
 Meow Wolf - https://meowwolf.com/
+
+ahha - https://ahhatulsa.org/
+
+Wonderspaces - https://www.wonderspaces.com/
+
+The Selfie Boutique - https://www.facebook.com/SelfieBoutiqueKC/
+
+Museum of Good Vibes - https://www.museumofgoodvibes.com/
+
+The City Museum - http://citymuseum.org
+
+Factory Obscura - http://factoryobscura.com
+
+Wisdome - http://wisdome.la
+
+Mattress Factory - http://mattress.org
 
 Burning Man - https://burningman.org/
 
