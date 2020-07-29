@@ -7,9 +7,9 @@ Peronsal IG Saved - https://www.instagram.com/failoften/saved/
 
 ## Taxonomy
 
-Wikipedia - Interactive Art - https://en.wikipedia.org/wiki/Interactive_art#:~:text=Interactive%20art%20is%20a%20form,become%20part%20of%20the%20artwork.
+Interactive Art - https://en.wikipedia.org/wiki/Interactive_art#:~:text=Interactive%20art%20is%20a%20form,become%20part%20of%20the%20artwork.
 
-Wikipedia - Installation Art - https://en.wikipedia.org/wiki/Installation_art#:~:text=Installation%20art%20is%20an%20artistic,the%20perception%20of%20a%20space.
+Installation Art - https://en.wikipedia.org/wiki/Installation_art#:~:text=Installation%20art%20is%20an%20artistic,the%20perception%20of%20a%20space.
 
 Mbryonic Guide - https://mbryonic.com/installations-guide/
 
@@ -58,6 +58,7 @@ Austin Museum of Digital Art - https://en.wikipedia.org/wiki/Austin_Museum_of_Di
 Museum of Art and Digital Entertainment - https://en.wikipedia.org/wiki/Museum_of_Art_and_Digital_Entertainment
 
 MoPOP - https://www.mopop.org/
+
 
 
 ## Articles
@@ -154,3 +155,19 @@ Zach Lieberman
 CW&T
 
 Daniel Rozin - https://www.theverge.com/2018/1/9/16850280/daniel-rozin-interactive-art-interview-video-nespresso-last-chance-to-shine
+
+
+## Resources
+
+Instructables:
+- https://www.instructables.com/id/Installations/
+
+TouchDesigner:
+- https://forum.derivative.ca/
+- https://matthewragan.com/
+- https://interactiveimmersive.io/
+- https://www.youtube.com/channel/UCONptu0J1PCrW9YfBtSdqjA
+
+Makey Makey GO:
+- https://scratch.mit.edu/studios/1792031/
+
