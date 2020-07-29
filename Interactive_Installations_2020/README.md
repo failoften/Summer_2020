@@ -108,52 +108,29 @@ Disney (Imagineering)
 ## Artists
 
 Yayoi Kusama
-
 Ai Wei Wei
-
 Marina Abromovic
-
 Olafur Eliasson
-
 Allan Kaprow
-
 Niki de Saint Phalle
-
 Maurice Benayoun
-
 Judy Chicago
-
 Christo and Jean-Claude
-
 Bruce Nauman
-
 Banksy
-
 Kara Walker
-
 Louise Bourgeois
-
 Nam June Paik
-
 Joseph Beuys
-
 James Turrell
-
 Bill Viola
-
 Richard Serra
-
 Anish Kapoor
 
-
 *More*
-
 Marpi Studios
-
 Zach Lieberman
-
 CW&T
-
 Daniel Rozin - https://www.theverge.com/2018/1/9/16850280/daniel-rozin-interactive-art-interview-video-nespresso-last-chance-to-shine
 
 
