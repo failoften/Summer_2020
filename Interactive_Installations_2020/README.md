@@ -41,9 +41,9 @@ Pinterest Lists:
 - https://www.pinterest.com/jokerkao/interactive-art/
 
 
-## Museums and Galleries
+## ***See TwentyTwoHalo's map of creative coding studios map! - https://www.twentytwohalo.com/creativestudios.html***
 
-***See TwentyTwoHalo's map of creative studios! - https://www.twentytwohalo.com/creativestudios.html***
+## Museums and Galleries (USA)
 
 Artechouse - https://www.artechouse.com/
 
