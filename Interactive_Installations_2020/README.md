@@ -43,7 +43,7 @@ Pinterest Lists:
 
 ## Museums and Galleries
 
-***See TwentyTwoHalo's map of creative studios! - https://www.twentytwohalo.com/creativestudios.html ***
+**See TwentyTwoHalo's map of creative studios! - https://www.twentytwohalo.com/creativestudios.html **
 
 Artechouse - https://www.artechouse.com/
 
