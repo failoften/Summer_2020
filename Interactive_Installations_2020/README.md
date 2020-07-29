@@ -2,8 +2,6 @@
 
 See Google Drive for Syllabus
 
-Peronsal IG Saved - https://www.instagram.com/failoften/saved/
-
 
 ## Taxonomy
 
@@ -35,12 +33,12 @@ Dezeen - https://www.dezeen.com/design/installations/
 ia - https://installationart.tv/interactive-art/
 
 Pinterest Lists:
+- Peronsal IG - https://www.instagram.com/failoften/saved/
 - https://www.pinterest.com/studioartdirect/interactive-digital-light-art-installations/
 - https://www.pinterest.com/ultraliteliving/interactive-sculptures/
 - https://www.pinterest.com/codaworx/experiential-interactive-art/?autologin=true
 - https://www.pinterest.com/jeremykeas/tech-art-interactive-installations/
 - https://www.pinterest.com/jokerkao/interactive-art/
-
 
 
 ## Museums and Galleries
