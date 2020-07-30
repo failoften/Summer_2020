@@ -30,6 +30,8 @@ Design Boom - https://www.designboom.com/tag/interactive-installation/
 
 Dezeen - https://www.dezeen.com/design/installations/
 
+Architizer - https://architizer.com/firms/
+
 ia - https://installationart.tv/interactive-art/
 
 Pinterest Lists:
