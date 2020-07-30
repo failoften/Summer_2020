@@ -170,6 +170,10 @@ Heavy M
 Cables GL
 - https://cables.gl/
 
+Hydra 
+- https://hydra.ojack.xyz/
+- https://github.com/ojack/hydra
+
 Glitch
 - https://glitch.com/
 
@@ -178,3 +182,10 @@ Codepen
 
 Codeanywhere
 - https://codeanywhere.com/
+
+Scratch (for Makey Makey GO)
+- https://scratch.mit.edu/studios/1792031/
+
+Adafruit MakeCode (for Circuit Playground Express)
+- https://makecode.adafruit.com/#
+
