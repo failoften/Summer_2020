@@ -189,3 +189,20 @@ Scratch (for Makey Makey GO)
 Adafruit MakeCode (for Circuit Playground Express)
 - https://makecode.adafruit.com/#
 
+AR iSandBox
+- https://ar-sandbox.com/
+
+Unity
+- https://unity3d.com/learn/resources/talks/interactive-installations-made-easy-unity
+
+MaxMSP
+- https://cycling74.com/products/max
+
+Vezer
+- https://imimot.com/vezer/
+
+Mitti
+- https://imimot.com/mitti/
+
+CoGe VJ
+- https://imimot.com/cogevj/
