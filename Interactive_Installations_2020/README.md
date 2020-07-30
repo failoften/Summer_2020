@@ -150,18 +150,18 @@ CW&T
 Daniel Rozin - https://www.theverge.com/2018/1/9/16850280/daniel-rozin-interactive-art-interview-video-nespresso-last-chance-to-shine
 
 ## KCAI Hardware Resources
-Touch Screen
-Myo
-Kinect
-Roli
-MIDI beat pads
-Webcams
-Arduino, Raspberry Pi, etc.
-iPad
-Game controllers
-DMX, WiFi-RGB, and Neopixel lights
-PS4 + PSVR
-Xbox 360
+- Touch Screen
+- Myo
+- Kinect
+- Roli
+- MIDI beat pads
+- Webcams
+- Arduino, Raspberry Pi, etc.
+- iPad
+- Game controllers
+- DMX, WiFi-RGB, and Neopixel lights
+- PS4 + PSVR
+- Xbox 360
 
 
 ## Online Resources
